@@ -1,6 +1,6 @@
 # ListaHezi
 
-Tarea Para CoderHouse
+A Homework for a ReactNative course in Coderhouse
 
 <img src="https://user-images.githubusercontent.com/13218725/178125252-ad138207-cf55-43c5-9537-ce22c7031ea6.gif" width=400 />
 
